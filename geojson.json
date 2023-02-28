@@ -1,0 +1,1739 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Andhra Pradesh",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy       efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        79.35116704088136,
+        15.517218908612222
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type" : "Feature",
+    "properties":{
+      "place" : "Arunachal Pradesh",
+      "projects" : [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+        { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy       efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+        { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates" : [
+        94.74063795327669,
+        28.369587148131387
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type" : "Feature",
+    "properties":{
+      "place" : "Assam",
+      "projects" : [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+        { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy       efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+        { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates" : [
+        93.00022299976882,
+        26.318673214270362
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Bihar",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy       efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        86.18382993011505,
+        25.776268220588776
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Chhattisgarh",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        81.93007608502398,
+        21.519358641277023
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Goa",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        74.05137737239241,
+        15.32560296180057
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Gujarat",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        71.5724,
+        22.6708
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Haryana",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        76.26942972190488,
+        29.452927752031357
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Himachal Pradesh",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        77.20988563890472,
+        31.934928455892916
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Jharkhand",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+       { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        85.09619281945083,
+        23.3703508418878
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Karnataka",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        },
+        {
+          "name" : "Energy Efficient Design & ECBC Compliance Support for DC Office", 
+          "link" : "energy-efficient-design-ECBC-compliance-support-DC-Office.php" 
+        },
+        {
+          "name" : "Energy Efficient Design & ECBC Compliance Support for Hotel & Retail Building Complex", 
+          "link" : "energy-efficient-design-ECBC-compliance-support-for-hotel-retail-building-complex.php" 
+        },
+        {
+          "name" : "Hassan Super Speciality Hospital Energy Efficient Design & ECBC Compliance Support", 
+          "link" : "hassan-super-speciality-hospital.php" 
+        },
+        {
+          "name" : "Energy Efficient Design & ECBC Compliance Support for Yelburga Engineering College", 
+          "link" : "energy-efficient-design-ECBC-compliance-support-Yelburga-Engineering-College.php" 
+        },
+        {
+          "name" : "Energy Efficient Design & ECBC Compliance Support for Auditorium Building", 
+          "link" : "energy-efficient-design-ECBC-compliance-support-auditorium-building.php" 
+        },
+        {
+          "name" : "Energy Efficient Design & ECBC Compliance Support for Yadgir Institute of Medical Sciences, Karnataka", 
+          "link" : "energy-efficient-design-ECBC-compliance-yadgir-Institute-medical-sciences-karnataka.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        75.7764803308605,
+        14.956734155665558
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Kerala",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        76.55916331574656,
+        10.203621385048166
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Madhya Pradesh",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        78.69992397746654,
+        23.575221313898652
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Maharashtra",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        76.32014695521747,
+        19.753340569159178
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Manipur",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        93.73811536081251,
+        24.4342274430215
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Meghalaya",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        90.81862210496394,
+        25.514662082475596
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Mizoram",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        92.75575285708311,
+        23.312325957632098
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Nagaland",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        94.5046772729932,
+        26.118667359725308
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Odisha",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        84.55954371700636,
+        20.22486498979829
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Punjab",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        75.45882713503485,
+        30.560641775460297
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Rajasthan",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Manipal University", 
+          "link" : "manipal-university.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        73.13211106122122,
+        26.97139561098882
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Sikkim",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        88.41337641702717,
+        27.55998684107722
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Tamil Nadu",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        78.69839864434908,
+        11.39746084870859
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Telangana",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        78.96594460012227,
+        18.160287696951542
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Tripura",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        91.80652431080807,
+        23.946438837034876
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Uttarakhand",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        79.1793661996291,
+        30.1924214348886
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Uttar Pradesh",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        },
+        { 
+          "name" : "Daylight analysis and autonomy of Assotech Commercial & Hotel Complex", 
+          "link" : "assotech-commercial-hotel-complex.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        80.48947293242469,
+        27.3470288977624
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "West Bengal",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        88.02099457739229,
+        23.82192452263419
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Andaman & Nicobar Islands",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        92.65295043480023,
+        11.698626250308209
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Dadra and Nagar Haveli and Daman and Diu",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        73.0169,
+        20.1809
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Jammu & Kashmir",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        75.27686029656488,
+        33.563087196719124
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Lakshadweep",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        72.6417,
+        10.5667
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Chandigarh",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        76.72349521474257,
+        30.885216436729777
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "New Delhi",
+      "projects":  [
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Climate-smart Hospitals in India - Assessing the energy footprint and associated GHG emissions of hospitals", 
+          "link" : "energy-survey-for-climate-smart-hospital-india.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        },
+        { 
+          "name" : "Climate and energy analysis support for Ireon SkyOn Club", 
+          "link" : "skyon-club.php" 
+        },
+        { 
+          "name" : "Energy and Environmental Audit of UNICEF India Headquarters, New Delhi", 
+          "link" : "audit-of-unicef-india-headquarters.php" 
+        },
+        { 
+          "name" : "Analysis of microclimate of the urban forms in New Delhi for Urban Heat Island Impact Assessment", 
+          "link" : "analysis-of-micro-climate-of-the-urban-for-Heat-Island-Impact-Assessment.php" 
+        },
+        { 
+          "name" : "Technical consulting of UNDP Main and Annexe Building", 
+          "link" : "technical-consulting-of-UNDP-main-and-annexe-building.php" 
+        },
+        { 
+          "name" : "LEED Certification of UN House", 
+          "link" : "leed-certification-of-un-house.php" 
+        },
+        { 
+          "name" : "GRIHA rating for UNDP, India", 
+          "link" : "avail-griha.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        76.41005923189141,
+        28.44001367732595
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Ladakh",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        },
+        { 
+          "name" : "Climate Responsive Housing Development for Border Road Organisation’s (BRO) Project", 
+          "link" : "climate-responsive-housing-development-for-bro.php" 
+        },
+        { 
+          "name" : "Condensation analysis for selection of insulation materials for Leh airport, UT of Ladakh", 
+          "link" : "condensation-analysis-leh-airport.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        77.24648010076334,
+        33.987939892371884
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Puducherry",
+      "projects":  [
+        { 
+          "name" : "Technical support for the implementation of ECBC in Indian States and Union Territories", 
+          "link" : "ecbc-implementation.php" 
+        },
+        { 
+          "name" : "Development of Eco-Niwas Samhita Part II, India", 
+          "link" : "development-of-Eco-Niwas-Samhita-Part II-India.php" 
+        },
+       { 
+          "name" : "Market potential of the Indian housing market and comparison of most common green/energy efficiency certificates in India", 
+          "link" : "smart-washroom-management.php" 
+        },
+       { 
+          "name" : "Climate Smart City Assessment Framework for the NIUA", 
+          "link" : "Climate-Smart-City-Assesment-Framework-for-NIUA.php" 
+        },
+        { 
+          "name" : "Capacity Building and knowledge products on climate smart cities", 
+          "link" : "Capacity-Building-and-knowledge-products-on-climate-smart-cities.php" 
+        },
+        { 
+          "name" : "Energy Audit of Chief Secretarat, Puducherry & Central Prison, Kalapet", 
+          "link" : "energy-audit-survey-of-chief-secretariat.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        79.7338404769431,
+        12.07811135922961
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Nigeria”",
+      "projects":  [
+        { 
+          "name" : "Development of guidebook on “Energy and Resource Efficiency Measures and Regulations for the Building Sector in Nigeria”", 
+          "link" : "development-guidelines-nigeria.php" 
+        },
+        { 
+          "name" : "Building laws and regulations for Nairobi", 
+          "link" : "assisting-national-and-local-govt.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        8.100037307829723,
+        9.586875105316736
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Vietnam",
+      "projects":  [
+        { 
+          "name" : "Direct and Indirect Emissions Assessment of Food Cold Chain and Building Space Cooling Sector in Vietnam", 
+          "link" : "direct-and-indirect-Emissions-Assessment-of-Food-in-Vietnam.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        108.32145097631991,
+        14.307668380163733
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Cambodia",
+      "projects":  [
+        { 
+          "name" : "International Methodology for NCAP Development and Emission Data Assessment for Cooling Sectors in Cambodia", 
+          "link" : "international-methodology-for-NCAP-Cambodia.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        104.90802941939722,
+        12.438795105960764
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Cambodia",
+      "projects":  [
+        { 
+          "name" : "International Methodology for NCAP Development and Emission Data Assessment for Cooling Sectors in Cambodia", 
+          "link" : "international-methodology-for-NCAP-Cambodia.php" 
+        },
+        { 
+          "name" : "Promoting Sustainable Energy in the Asia and Pacific Region to Support the implementation of SDG7 and the Paris Agreement and the UN Environment's Cool Coalition - Cambodia", 
+          "link" : "Promoting-Sustainable-Energy-in-the-Asia-and-Pacific-SDG7-Cool-Coalition-Cambodia.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        104.90802941939722,
+        12.438795105960764
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Afghanistan",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        65.98421192348994,
+        33.83119022864555
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Iran",
+      "projects":  [
+        { 
+          "name" : "Impelmentation of Energy Conservation Building Code and Energy Management Information System in the Republic of Iran", 
+          "link" : "impelmentation-of-ECBC-in-republic-of-iran.php" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        54.301982296450234,
+        32.560863938697466
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Turkmenistan",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        59.36823335063505,
+        39.10932907572149
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Iraq ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        43.41379414207688,
+        33.04023373327331
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Syria ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        38.47685102823047,
+        35.00850017317306
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Turkey  ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        35.15479804735716,
+        39.0561087320626
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Ukraine ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        31.292821556925844,
+        49.313047667245854
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Belarus ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        28.019776464480145,
+        53.53756985803744
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Poland ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        19.283384301001377,
+        52.1185341303877
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Romania ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        24.97233137203935,
+        45.833470458101885
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Greece ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        23.832188050558926,
+        38.580806513134064
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Bulgaria ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        25.21476277003373,
+        42.75218020157115
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Hungary ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        19.453517651640226,
+        47.05143764591284
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Slovakia ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        19.46668237431743,
+        48.70369119549309
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Austria ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        14.290125514114948,
+        47.600187901902046
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Czechia ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        15.318121582875563,
+        49.7442806710705
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Kazakhstan ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        67.272176438526,
+        48.154466004257074
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "place": "Kyrgyzstan ",
+      "projects":  [
+        { 
+          "name" : "", 
+          "link" : "" 
+        }
+      ]
+    },
+    "geometry": {
+      "coordinates": [
+        74.51165688615384,
+        41.463983315303125
+      ],
+      "type": "Point"
+    }
+  }
+]
+
+
+

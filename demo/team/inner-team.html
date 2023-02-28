@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+      <meta charset="utf-8">
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+	  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	  <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+     
+      <link rel="stylesheet" href="../bootstrap.css">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="../style.css">
+	   <link rel="stylesheet" href="../print.css" type="text/css" media="print" />
+      
+	  
+  </head>
+
+  <body id="page-view">
+
+      <header>
+          <nav class="navbar navbar-inverse">
+              <div class="container-fluid">
+                  <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                      </button>
+                      <a class="navbar-brand" href="../">
+                          <img src="../images/logo.png" alt="">
+                      </a>
+                  </div>
+                  <div class="collapse navbar-collapse" id="myNavbar">
+
+                      <ul class="nav navbar-nav navbar-right">
+                        <li><a href="../">Home</a></li>
+                          <li><a href="../about.html">About</a></li>
+                          <li class="activeLi"><a href="../team.html">Team</a></li>
+                          <li><a href="../services.html">Services</a></li>
+                          <li><a href="../portfolio.html">Portfolio</a></li>
+						  <li><a href="../careers.html">Careers</a></li>
+                          <li class="Signup"><a href="../contactUs.html">Contact Us</a></li>
+                      </ul>
+                  </div>
+              </div>
+          </nav>
+      </header>
+
+      <section class="breadcrumb-container container">
+          <div class=" row">
+		   <div class="col-sm-6">
+             <nav aria-label="breadcrumb">
+			  <ol class="breadcrumb">
+				<li class="breadcrumb-item"><a href="#">Home</a></li>
+				<li class="breadcrumb-item"><a href="../team.html">Team</a></li>
+				<li class="breadcrumb-item active" aria-current="page">Kamal Kumar</li>
+			  </ol>
+			 </nav>
+			</div>
+			<div class="col-sm-6">
+				<div class="teamsocial text-right">
+					<ul class="list-unstyled list-inline">
+						<li><a   href="#" class="pagePrint" ><i class="fa fa-print"></i></a></li>
+						<li><a href="http://ids-pl.com/demo/team" target="_blank" class="team_social_url"><i class="fa fa-facebook-f"></i></a></li>
+						<li><a href="http://ids-pl.com/demo/team" target="_blank" class="team_social_url"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="http://ids-pl.com/demo/team" target="_blank" class="team_social_url"><i class="fa fa-twitter"></i></a></li>
+					</ul>
+                                 
+							
+                 </div>
+			</div>
+          </div>
+      </section>
+
+     <!-- <section class="our-capability-section">
+        <div class="container">
+          <div class="our-capability-container">
+            <h3>Our capability</h3>
+            <ul class="capability-list">
+              <li class="capability-item">Energy performance analysis</li>
+              <li class="capability-item">Architectural design</li>
+              <li class="capability-item">IOT</li>
+              <li class="capability-item">Architectural design</li>
+              <li class="capability-item">Blockchain development</li>
+              <li class="capability-item">EE product development</li>
+              <li class="capability-item">CFD</li>
+              <li class="capability-item">Building MEP Design</li>
+            </ul>
+          </div>
+        </div>
+      </section>-->
+
+      <section class="team-members">
+          <div class="container d-print-table">
+				<div class="row d-print-table-row">
+					<div class="col-xs-12 col-sm-5 col-md-3 d-print-table-cell">
+						<div class="members_info">
+							<div class="member">
+								<img src="../images/kamal.jpg" alt="" class="img-rounded" />
+								<h4>Kanagaraj Ganesan</h4>
+								<h5>PRINCIPAL TECHNICAL ADVISOR </h5>
+							</div>
+							<div class="capability">
+								<h3>Capabilities</h3>
+								<ul class="list-unstyled">
+									<li>Building MEP Design</li>
+									<li>Project Management</li>
+									<li>Project Implementation</li>
+								</ul>
+							</div>
+							<div class="cv">
+								<a href="http://ids-pl.com/demo/team/pdf/test.pdf" download><i class="fa fa-download"></i> Download</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-7 col-md-9 d-print-table-cell">
+						<div class="m_project_details">
+							<div class="member_desc">
+								<p>Mr. Kamal Kumar is a post graduate degree holder in the field of mechanical engineering. He has 29 years of experience in project management, maintenance and operation. He is skilled in manpower planning for optimum utilisation of available resources and has the distinction of minimising the break down period of equipment.<span id="dots">...</span></p>
+								<p><span id="more">Mr. Kumar has also worked overseas as in-charge of major mechanical machinery and equipment. He has been a part of NBCC Ltd. and engaged in projects concerning railway station construction, water pipeline project, housing project, Indo-Bangladesh border fencing, and road works in Nepal. Recently, in his work arsenal, he was associated with M/s Assotech group as HOD and looked after</span></p>
+								<a href="#" class="read-more" onclick="readmore()" id="readmore">Read more </a>
+							</div>
+							<script>
+								function readmore() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("readmore");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+							</script>
+							<h2>Projects Worked</h2>
+							<div class="work_projects">
+								<h3>Energy Efficiency Improvements in Commercial Buildings (UNDP-GEF-BEE) IDS Content</h3>
+								<h4>Building Energy Efficiency</h4>
+								<a href="http://ids-pl.com/demo/team">View Project </a>
+							</div>
+							<div class="work_projects">
+								<h3>Energy Efficiency Improvements in Commercial Buildings (UNDP-GEF-BEE) IDS Content</h3>
+								<h4>Building Energy Efficiency</h4>
+								<a href="http://ids-pl.com/demo/team">View Project </a>
+							</div>
+							<div class="work_projects">
+								<h3>Energy Efficiency Improvements in Commercial Buildings (UNDP-GEF-BEE) IDS Content</h3>
+								<h4>Building Energy Efficiency</h4>
+								<a href="http://ids-pl.com/demo/team">View Project </a>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+          </div>
+      </section>
+
+
+     
+      <footer>
+              <div class="container">
+              <div class="footerList">
+                  <div class="row">
+                      <div class="col-md-12">
+                          <div class="col-md-4 socialIcons">
+                              <img src="../images/footerLogo.png">
+                              <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/people/Integrative-Design-Solutions-Private-Limited/100083386219120/" target="_blank"><img src="../images/facebook.svg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/company/idspl/about/" target="_blank"><img src="../images/linkedin.svg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/IDSPL3" target="_blank"><img src="../images/twitter.svg" alt=""></a>
+                                </li>
+                              </ul>
+                              <div class="other-texts news_career">
+								<ul>
+									<li>
+                                      <a href="">News &amp; Blogs</a>
+                                  </li>
+                                  <li>
+                                      <a href="../careers.html">Careers</a>
+                                  </li>
+								 </ul>
+                              </div>
+                          </div>
+
+                          <div class="col-md-4 linking">
+                              <h4>Information</h4>
+                              <ul>
+                                  <li>
+                                      <a href="../index.html">Home</a>
+                                  </li>
+                                  <li>
+                                      <a href="../about.html">About</a>
+                                  </li>
+                                  <li>
+                                      <a href="../team.html">Team</a>
+                                  </li>
+                                  <li>
+                                      <a href="../services.html">Services</a>
+                                  </li>
+                                  <li>
+                                      <a href="../portfolio.html">Projects</a>
+                                  </li>
+                                  
+                                  <li>
+                                      <a href="../contactUs.html">Contact Us</a>
+                                  </li> 
+                              </ul>
+                          </div>
+                          <div class="col-md-4 linking linkingAddress">
+                                  <h4>Contact</h4>
+                                  <ul>
+                                      <li><img src="../images/placeholder.svg"> <h4>Metro View Apartments, Sector 13B, Dwarka, New Delhi - 110078.</h4> </li>
+                                      <li><img src="../images/email.svg"><h4> kanagaraj@ids-pl.com</h4> </li>
+                                      <li><img src="../images/call.svg"><h4>  99718 41354</h4> </li>
+                                      <!-- <li><a href="../contactUs.html">Contact Us</a></li> -->
+                                  </ul>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          </footer>
+          <div class="secondaryFooter">
+              <h4>&copy; 2019 IDSPL - ALL RIGHTS RESERVED.</h4>
+          </div>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+	  <script>
+	  $(document).ready(function(){
+	  
+		$('a.pagePrint').click(function(){
+//w=window.open();
+//w.document.write($('.team-members').html());
+window.print();
+
+});
+});
+	  </script>
+  </body>
+
+</html>

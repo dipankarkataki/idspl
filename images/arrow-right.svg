@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-IDSPL-Portfolio-Detail" transform="translate(-1103.000000, -1021.000000)" fill="#32312F">
+            <g id="Group-5" transform="translate(170.000000, 982.000000)">
+                <g id="Group-3-Copy" transform="translate(480.000000, 38.000000)">
+                    <g id="Group-4" transform="translate(361.000000, 0.000000)">
+                        <path d="M97.9839648,1.20633213 C97.8520074,1.0742278 97.6729465,1 97.4862266,1 C97.2995067,1 97.1204458,1.0742278 96.9884884,1.20633213 L92.2063321,5.9849708 C92.0742278,6.11692824 92,6.29598913 92,6.48270902 C92,6.66942892 92.0742278,6.8484898 92.2063321,6.98044724 L96.9884884,11.7590859 C97.1647292,11.9442575 97.4275464,12.0192558 97.6749696,11.9549824 C97.9223929,11.8907089 98.1154803,11.6972798 98.1793161,11.4497432 C98.2431519,11.2022067 98.1676889,10.9395226 97.982206,10.7636095 L93.697788,6.48270902 L97.982206,2.20180857 C98.1145438,2.07008467 98.1890881,1.89115488 98.189418,1.70443489 C98.1897479,1.5177149 98.1158363,1.33852282 97.9839648,1.20633213 Z" id="arrow-right" transform="translate(95.100811, 6.488800) rotate(-180.000000) translate(-95.100811, -6.488800) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+[10-Jun-2020 20:31:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/zs1xaec8b7ye/public_html/emailer/vendor/phpmailer/phpmailer/PHPMailerAutoload.php on line 45
+[13-Jun-2020 20:00:58 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/zs1xaec8b7ye/public_html/emailer/vendor/phpmailer/phpmailer/PHPMailerAutoload.php on line 45
+[13-Jun-2020 20:01:08 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`localhost' in /home/zs1xaec8b7ye/public_html/emailer/vendor/phpmailer/phpmailer/class.smtp.php on line 368
+[13-Jun-2020 20:01:13 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`localhost' in /home/zs1xaec8b7ye/public_html/emailer/vendor/phpmailer/phpmailer/class.smtp.php on line 368

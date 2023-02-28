@@ -1,0 +1,115 @@
+[06-Jun-2019 01:55:42 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 01:55:42 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 01:59:37 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 01:59:37 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:12:29 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:12:29 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:13:35 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:13:35 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:13:39 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:13:39 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:16 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:16 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:19 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:19 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:24 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:24 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:29 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:29 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:47 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:47 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:15:03 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:15:03 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:12:04 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:12:04 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:58 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:14:58 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:15:01 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:15:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:16:59 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:16:59 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:17:00 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:17:00 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:17:57 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:17:57 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:17:59 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:17:59 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:18:28 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:18:28 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:18:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 38
+[06-Jun-2019 02:19:22 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:19:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:20:29 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:20:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:21:12 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:21:12 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:22:02 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:22:02 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:22:50 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:22:50 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:22:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 37
+[06-Jun-2019 02:23:16 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:23:16 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:24:44 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:24:44 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:25:18 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:25:18 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:25:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 36
+[06-Jun-2019 02:26:09 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:26:09 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 02:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 34
+[06-Jun-2019 02:26:42 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:26:42 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 33
+[06-Jun-2019 02:26:58 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:26:58 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:27:53 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:27:53 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:27:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 33
+[06-Jun-2019 02:29:01 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:29:01 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 5
+[06-Jun-2019 02:29:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 33
+[06-Jun-2019 08:14:26 Asia/Kolkata] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:14:26 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:11 Asia/Kolkata] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:11 Asia/Kolkata] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:29
+Stack trace:
+#0 /home/zs1xaec8b7ye/public_html/demo/submit.php(44): include()
+#1 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 29
+[06-Jun-2019 08:15:16 Asia/Kolkata] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:16 Asia/Kolkata] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:29
+Stack trace:
+#0 /home/zs1xaec8b7ye/public_html/demo/submit.php(44): include()
+#1 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 29
+[06-Jun-2019 08:15:49 Asia/Kolkata] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:49 Asia/Kolkata] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 6
+[06-Jun-2019 08:15:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/zs1xaec8b7ye/public_html/demo/mail.php:29
+Stack trace:
+#0 /home/zs1xaec8b7ye/public_html/demo/submit.php(44): include()
+#1 {main}
+  thrown in /home/zs1xaec8b7ye/public_html/demo/mail.php on line 29

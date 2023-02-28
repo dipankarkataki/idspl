@@ -1,0 +1,59 @@
+<?php
+
+$name = $_POST['fname'];
+$email = $_POST['femail'];
+$phone = $_POST['fphone'];
+$subject = $_POST['fsubject'];
+$message = $_POST['fmsg'];
+
+$mail_body = "Hello ".$name.", 
+Thank you for your interest 
+One of us will get in touch with you soon.
+
+Have a great day!
+Sincerely
+IDSPL Team ";
+
+$mail_body2 =  "Hello,
+There is a Query From IDSPL Website with following details
+
+Name:".$name."
+
+email:".$email."
+
+phone:".$phone."
+
+Subject:".$subject."
+
+Message:".$message." 
+
+Please Solve/Answer query.
+
+Thanks
+";
+		
+$to = $email;
+$subject = "IDSPL";
+$txt = $mail_body;
+$headers = "From: kanagaraj@ids-pl.com";
+
+$to2 = "kanagaraj@ids-pl.com";
+$subject2 = "Query From IDSPL Website";
+$txt2 = "Hello world!";
+$headers2 = "From: mukul@ids-pl.com";
+
+$thank_url ="thankyou.php";
+
+if(mail($to,$subject,$mail_body,$headers))
+{
+    echo"sent";
+    mail($to2,$subject,$mail_body2,$headers2);
+    echo "<script>window.location = '".$thank_url."';</script>";
+    exit();
+		
+}
+else{
+    echo"not";
+}
+
+?>
